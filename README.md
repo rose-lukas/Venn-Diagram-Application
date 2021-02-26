@@ -67,12 +67,7 @@ $ java -jar VennApplication.jar
 ## Credits
 This project exists thanks to all the people who contribute.
 <a href="https://github.com/badges/shields/graphs/contributors"></a>
+* Lukas Rose
 * Jawad Ahmed
 * Sarwat Shaheen
 * Wei ming yu
-* Lukas Rose
-
-
-## License
-
-MIT © [EECS2311 Group 17]()

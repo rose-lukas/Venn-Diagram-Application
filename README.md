@@ -1,4 +1,3 @@
-# Venn 
   <p align="center">
   <img src="https://cdn6.f-cdn.com/contestentries/514361/19225055/576577cb5d167_thumb900.jpg" /></a>
  

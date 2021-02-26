@@ -1,6 +1,6 @@
 # Venn 
   <p align="center">
-  <img src="https://www.pitango.com//data/upl/companies/venn%20300x300_transparent%20background.png" /></a>
+  <img src="https://cdn6.f-cdn.com/contestentries/514361/19225055/576577cb5d167_thumb900.jpg" /></a>
  
  <img src="https://img.shields.io/badge/build-passing-brightgreen" /></a>
  <img src="https://img.shields.io/badge/Code%20Coverage-97%25-brightgreen" /></a>

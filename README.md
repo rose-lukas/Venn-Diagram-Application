@@ -27,7 +27,6 @@ $ java -jar VennApplication.jar
 
 ## Features
 - [x] Customizable Titles
-<<<<<<< HEAD
 - [x] Customizable Circle Colors
 - [x] Adding Customizable Text Boxes
 - [x] Drag and Drop Text Box Function
@@ -37,7 +36,6 @@ $ java -jar VennApplication.jar
 - [x] Drag and Drop Function
 >>>>>>> branch 'master' of https://github.com/lukas-rose-216489023/EECS2311Project.git
 - [x] Text Box Anchoring in the Circle Sections
-<<<<<<< HEAD
 - [x] Save Screenshot of Venn Diagram 
 - [x] Resizable Window
 - [x] Saving the Process Option
